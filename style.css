@@ -1,5 +1,10 @@
 body{
 height: auto;
+background-color:pink;
 border:2px;
+<<<<<<< HEAD
 padding:1px;
+=======
+color: Red;
+>>>>>>> 80c626bd7861a0cc5fb690c40f3d7bf6da1cacac
 }
